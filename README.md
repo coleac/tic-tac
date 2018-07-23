@@ -1,7 +1,9 @@
 
-# The website for the project is https://coleac.github.io/tic-tac/
+## Project website: https://coleac.github.io/tic-tac/
 
-  The tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html).
+  Improvements added 7/22/2018.
+  
+  The tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html). Completed 7/11/2018.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
